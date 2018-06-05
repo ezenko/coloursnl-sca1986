@@ -1,0 +1,14 @@
+uuid: b4937049-cf7e-422a-9f32-d4a414f93555
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - e.zenko@colours.nl
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
